@@ -37,6 +37,7 @@ Accueil des nouveaux arrivants et discussion libre
 
 ## Aide-Godot
 Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engine
+
 |Salon      |Description|
 |-----------|-----------|
 |FAQ        |Salon bloqué ne contenant qu'un seul message épinglé donnant les principales astuces mais aussi un lien vers le site web de Godot Engine Francophone|
