@@ -30,6 +30,7 @@ Accueil des nouveaux arrivants et discussion libre
 
 |Salon      |Description|
 |-----------|-----------|
+|bienvenue  |Seul salon visible pour tout nouvel arrivant.|
 |presentez-vous|Permet a tous et a toutes de se présenter|
 |clavardage |Espace de discussion libre|
 |godot      |Espace de discussion libre autour de Godot Engine|
@@ -68,4 +69,33 @@ Zone dédié au développements de jeux
 |promo-discord|Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
 |tutoriel   |Salon bloqué enécriture qui redirige vers le github de Godot Engine Francophone, la ou on peut partager des ressources|
 |graphisme  |Salon permettant de partager des oeuvres|
+|marketing  |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
 
+# Rôles
+
+## Modérateurs & Staff
+
+|Rôle                |Droit               |Description         |
+|--------------------|--------------------|--------------------|
+|MaitreTraducteur    |Admin Traduction    |Role donné aux modérateurs de la catégorie traduction|
+|MaitreTraducteur    |Utilisateur Staff   |                    |
+|MaitreGodot         |Admin Aide-Godot    |Role donné aux modérateurs de la catégorie aide-godot|
+|MaitreGodot         |Utilisateur Staff   |                    |
+|MaitreAnnonceur     |Admin Annonce       |Role donné aux modérateurs de la catégorie annonce|
+|MaitreAnnonceur     |Utilisateur Staff   |                    |
+|MaitreRobot         |Bot                 |Role donné aux administrateurs du bot du discord|
+|MaitreRobot         |Utilisateur Staff   |                    |
+|Staff               |Gère le discord     |Role donné aux membres du staff|
+
+## Utilsiateurs & membres
+
+|Rôle                |Droit               |Description         |
+|--------------------|--------------------|--------------------|
+|Anonyme             |S'inscrire          |Doit ajouter une emoticone au salon #bienvenue pour être considéré comme membre|
+|Membre              |Utilisateur         |Utilisateur humain|
+|Streamer            |Utilisateur         |Badge donné aux streamers|
+|Graphiste           |Utilisateur         |Badge donné aux graphistes|
+|SoundDesigner       |Utilisateur         |Badge donné aux sound designer|
+|GameDesigner        |Utilisateur         |Badge donné aux game designer|
+|Dévelopeur          |Utilisateur         |Badge donné aux dévelopeurs|
+|Traduction          |Utilisateur         |Badge donné aux traducteurs|
