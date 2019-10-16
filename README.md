@@ -65,6 +65,7 @@ Zone dédié au développements de jeux
 |-----------|-----------|
 |stream     |Salon ou sont annoncés les stream de game dev|
 |vos-projets|Permet de parler de ses projets de jeux vidéo|
+|vos-réalisations|Permet de présenter ses réalisations (projet fini) concernant le jeu-vidéo|
 |petites-annonces|Salon de petites annonces autour du développement de jeu vidéo|
 |promo-discord|Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
 |tutoriel   |Salon bloqué enécriture qui redirige vers le github de Godot Engine Francophone, la ou on peut partager des ressources|
