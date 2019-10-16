@@ -86,8 +86,9 @@ Zone dédié au développements de jeux
 |MaitreRobot         |Bot                 |Role donné aux administrateurs du bot du discord|
 |MaitreRobot         |Utilisateur Staff   |                    |
 |Staff               |Gère le discord     |Role donné aux membres du staff|
+|Bot                 |Bot                 |Role donné aux bots|
 
-## Utilsiateurs & membres
+## Utilisateurs & membres
 
 |Rôle                |Droit               |Description         |
 |--------------------|--------------------|--------------------|
