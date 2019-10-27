@@ -22,6 +22,9 @@ Channel dédié au staff de Godot Engine francophone
 |Accueil    |Annonce les nouveaux arrivants automatiquement|
 |Accueil    |Utilisé pour vérifier l'affluence du discord|
 |Discussion |Zone de discussion dédié au staff|
+|recap-reunion|Compte rendu des réunions|
+|site-web   |Discussions autour du site web|
+|bot-diuscord|Discussions autour du bot discord|
 |Vote       |Permet d'appeler a voter pour un changement|
 |Vocal      |Discusssion vocale|
 
@@ -101,3 +104,4 @@ Zone dédié au développements de jeux
 |GameDesigner        |Utilisateur         |Badge donné aux game designer|
 |Dévelopeur          |Utilisateur         |Badge donné aux dévelopeurs|
 |Traduction          |Utilisateur         |Badge donné aux traducteurs|
+|ContributeurGodot   |Utilisateur         |Badge donné aux contributeurs de Godot Engine|
