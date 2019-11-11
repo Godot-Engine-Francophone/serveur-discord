@@ -40,13 +40,13 @@ Accueil des nouveaux arrivants et discussion libre
 |taverne    |Salon vocal|
 
 ## Aide-Godot
-Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engine
+Espace d'échange pour ceux qui ont besoin d'aide pour leur projet avec Godot Engine
 
 |Salon      |Description|
 |-----------|-----------|
 |FAQ        |Salon bloqué ne contenant qu'un seul message épinglé donnant les principales astuces mais aussi un lien vers le site web de Godot Engine Francophone|
 |gdscript   |Salon dédié au GDScript|
-|gdnative   |Salon dédié au GDNative|
+|gdnative-csharp   |Salon dédié au GDNative et au C#|
 |shaders    |Salon dédié aux shaders|
 |visualscript|Salon dédié au visual scripting|
 |autre      |Ssalon dédié pour le reste|
@@ -61,19 +61,27 @@ Regroupe les discussions relatives aux traductions de Godot Engine et de sa docu
 |aide       |Salon permettant aux utilisateurs de poser des questions autour des traductions de Godot Engine|
 |les-perles |Salon qui permet de partager les meilleures comme les pires traductions|
 
-## Game dev
-Zone dédié au développements de jeux
+## Vitrine
+Catégorie pour que les membres postent leurs projets, discussion proscrite dans ces channels
+
+|Salon      |Description|
+|-----------|-----------|
+|discussion-vitrines|Pour discuter des différents éléments présentés dans les vitrines|
+|vos-projets|Permet de présenter ses projets (et leur avancés) concernant le jeu-vidéo|
+|petites-annonces|Salon de petites annonces autour du développement de jeu vidéo|
+|tutoriels   |Salon bloqué en écriture qui redirige vers le github de Godot Engine Francophone, la ou on peut partager des ressources|
+|promo-discord|Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
+
+## Créations JV
+Pour partager et discuter des créations liées à la création de jeu vidéo
 
 |Salon      |Description|
 |-----------|-----------|
 |stream     |Salon ou sont annoncés les stream de game dev|
-|vos-projets|Permet de présenter ses projets (et leur avancés) concernant le jeu-vidéo|
-|vos-réalisations|Permet de présenter ses réalisations (projet fini) concernant le jeu-vidéo|
-|petites-annonces|Salon de petites annonces autour du développement de jeu vidéo|
-|promo-discord|Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
-|tutoriel   |Salon bloqué enécriture qui redirige vers le github de Godot Engine Francophone, la ou on peut partager des ressources|
-|graphisme  |Salon permettant de partager des oeuvres|
-|marketing  |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
+|game-dev|Demander des conseils sur la création de jeu en général, le game design, le level-design et montrer ses créations|
+|graphisme  |Salon permettant de partager des oeuvres, d'en discuter et de faire des retours dessus|
+|son  |Parler des créations sonores, musicales et sound-design liés à un projet de jeu, demander des retours|
+|marketing  |Salon permettant de parler de la promotion de ses créations, comment vendre ses jeux etc.|
 
 # Rôles
 
