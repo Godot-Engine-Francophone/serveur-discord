@@ -31,49 +31,56 @@ Channel dédié au staff de Godot Engine francophone
 ## General
 Accueil des nouveaux arrivants et discussion libre
 
-|Salon      |Description|
-|-----------|-----------|
-|bienvenue  |Seul salon visible pour tout nouvel arrivant.|
-|presentez-vous|Permet a tous et a toutes de se présenter|
-|clavardage |Espace de discussion libre|
-|godot      |Espace de discussion libre autour de Godot Engine|
-|taverne    |Salon vocal|
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|bienvenue  |6h         | Seul salon visible pour tout nouvel arrivant.|
+|presentez-vous|6h      |Permet a tous et a toutes de se présenter|
+|clavardage |aucun      |Espace de discussion libre|
+|godot      |aucun      |Espace de discussion libre autour de Godot Engine|
+|taverne    |NA         |Salon vocal|
 
 ## Aide-Godot
 Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engine
 
-|Salon      |Description|
-|-----------|-----------|
-|FAQ        |Salon bloqué ne contenant qu'un seul message épinglé donnant les principales astuces mais aussi un lien vers le site web de Godot Engine Francophone|
-|gdscript   |Salon dédié au GDScript|
-|gdnative   |Salon dédié au GDNative|
-|shaders    |Salon dédié aux shaders|
-|visualscript|Salon dédié au visual scripting|
-|autre      |Ssalon dédié pour le reste|
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|aide-FAQ        |bloqué|Salon bloqué ne contenant qu'un seul message épinglé donnant les principales astuces mais aussi un lien vers le site web de Godot Engine Francophone|
+|aide-gdscript   |30s   |Salon dédié au GDScript|
+|aide-gdnative   |30s   |Salon dédié au GDNative|
+|aide-shaders    |30s   |Salon dédié aux shaders|
+|aide-visualscript|30s  |Salon dédié au visual scripting|
+|aide-autre      |30s   |Salon dédié pour le reste|
+
+## Vitrine
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|discussions   |aucun   |Pour réagir aux autre salons de Vitrine|
+|vos-shaders   |6h      |Partage les shaders, cooldown de 6h|
+|vos-plugins   |6h      |Partage les plugins, cooldown de 6h|
+|vos-modules   |6h      |Partage les modules, cooldown de 6h|
+|vos-jeux      |6h      |Partage les jeux, cooldown de 6h|
+|vos-assets    |6h      |Partage les assets graphiques ou sonores, cooldown de 6h|
+|vos-tutoriels |6h      |Partage les tutoriels qui sont utiles, cooldown de 6h|
 
 ## Traduction
 Regroupe les discussions relatives aux traductions de Godot Engine et de sa documentation
 
-|Salon      |Description|
-|-----------|-----------|
-|FAQ        |Salon bloqué permettant aux nouveaux utilisateurs de commencer a traduire Godot Engine|
-|discussion |Espace de discussion libre autour des traductions de Godot Engine|
-|aide       |Salon permettant aux utilisateurs de poser des questions autour des traductions de Godot Engine|
-|les-perles |Salon qui permet de partager les meilleures comme les pires traductions|
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|FAQ        |bloqué     |Salon bloqué permettant aux nouveaux utilisateurs de commencer a traduire Godot Engine|
+|discussion |aucun      |Espace de discussion libre autour des traductions de Godot Engine|
+|aide       |30s        |Salon permettant aux utilisateurs de poser des questions autour des traductions de Godot Engine|
+|les-perles |6h         |Salon qui permet de partager les meilleures comme les pires traductions|
 
 ## Game dev
 Zone dédié au développements de jeux
 
-|Salon      |Description|
-|-----------|-----------|
-|stream     |Salon ou sont annoncés les stream de game dev|
-|vos-projets|Permet de présenter ses projets (et leur avancés) concernant le jeu-vidéo|
-|vos-réalisations|Permet de présenter ses réalisations (projet fini) concernant le jeu-vidéo|
-|petites-annonces|Salon de petites annonces autour du développement de jeu vidéo|
-|promo-discord|Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
-|tutoriel   |Salon bloqué enécriture qui redirige vers le github de Godot Engine Francophone, la ou on peut partager des ressources|
-|graphisme  |Salon permettant de partager des oeuvres|
-|marketing  |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|stream     |6h         |Salon ou sont annoncés les stream de game dev|
+|petites-annonces|6h    |Salon de petites annonces autour du développement de jeu vidéo|
+|promo-discord|6h       |Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
+|marketing  |6h         |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
 
 # Rôles
 
