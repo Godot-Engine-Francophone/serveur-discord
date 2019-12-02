@@ -45,11 +45,11 @@ Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engi
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
 |aide-FAQ        |bloqué|Salon bloqué ne contenant qu'un seul message épinglé donnant les principales astuces mais aussi un lien vers le site web de Godot Engine Francophone|
-|aide-gdscript   |30s   |Salon dédié au GDScript|
-|aide-gdnative   |30s   |Salon dédié au GDNative|
-|aide-shaders    |30s   |Salon dédié aux shaders|
-|aide-visualscript|30s  |Salon dédié au visual scripting|
-|aide-autre      |30s   |Salon dédié pour le reste|
+|aide-gdscript   |15s   |Salon dédié au GDScript|
+|aide-gdnative   |15s   |Salon dédié au GDNative|
+|aide-shaders    |15s   |Salon dédié aux shaders|
+|aide-visualscript|15s  |Salon dédié au visual scripting|
+|aide-autre      |15s   |Salon dédié pour le reste|
 
 ## Vitrine
 |Salon      |Cooldown   |Description|
