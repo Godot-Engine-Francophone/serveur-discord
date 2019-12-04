@@ -1,6 +1,10 @@
 # serveur-discord
 Organisation du serveur discord Godot Engine Francophone
 
+# Cooldown possibles pour les canaux de discussions
+
+Aucun | 5s | 10s | 15s | 30s | 1m | 2m | 5m | 10m | 15m | 30m | 1h | 2h | 6h |
+
 # Catégories
 
 ## Annonces
