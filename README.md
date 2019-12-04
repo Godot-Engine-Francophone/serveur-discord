@@ -55,12 +55,12 @@ Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engi
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
 |discussions   |aucun   |Pour réagir aux autre salons de Vitrine|
-|vos-shaders   |6h      |Partage les shaders, cooldown de 6h|
-|vos-plugins   |6h      |Partage les plugins, cooldown de 6h|
-|vos-modules   |6h      |Partage les modules, cooldown de 6h|
-|vos-jeux      |6h      |Partage les jeux, cooldown de 6h|
-|vos-assets    |6h      |Partage les assets graphiques ou sonores, cooldown de 6h|
-|tutoriels-francophones|6h      |Partage les tutoriels qui sont utiles, cooldown de 6h|
+|vos-shaders   |6h      |Partage les shaders|
+|vos-plugins   |6h      |Partage les plugins|
+|vos-modules   |6h      |Partage les modules|
+|vos-jeux      |6h      |Partage les jeux|
+|vos-assets    |6h      |Partage les assets graphiques ou sonores|
+|tutoriels     |6h      |Partage les tutoriels en français de préférence|
 
 ## Traduction
 Regroupe les discussions relatives aux traductions de Godot Engine et de sa documentation
