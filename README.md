@@ -33,7 +33,7 @@ Accueil des nouveaux arrivants et discussion libre
 
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
-|bienvenue  |6h         | Seul salon visible pour tout nouvel arrivant.|
+|bienvenue  |bloqué     | Seul salon visible pour tout nouvel arrivant.|
 |presentez-vous|6h      |Permet a tous et a toutes de se présenter|
 |clavardage |aucun      |Espace de discussion libre|
 |godot      |aucun      |Espace de discussion libre autour de Godot Engine|
