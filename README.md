@@ -60,7 +60,7 @@ Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engi
 |vos-modules   |6h      |Partage les modules, cooldown de 6h|
 |vos-jeux      |6h      |Partage les jeux, cooldown de 6h|
 |vos-assets    |6h      |Partage les assets graphiques ou sonores, cooldown de 6h|
-|vos-tutoriels |6h      |Partage les tutoriels qui sont utiles, cooldown de 6h|
+|tutoriels-francophones|6h      |Partage les tutoriels qui sont utiles, cooldown de 6h|
 
 ## Traduction
 Regroupe les discussions relatives aux traductions de Godot Engine et de sa documentation
@@ -72,7 +72,7 @@ Regroupe les discussions relatives aux traductions de Godot Engine et de sa docu
 |aide       |30s        |Salon permettant aux utilisateurs de poser des questions autour des traductions de Godot Engine|
 |les-perles |6h         |Salon qui permet de partager les meilleures comme les pires traductions|
 
-## Game dev
+## Autre
 Zone dédié au développements de jeux
 
 |Salon      |Cooldown   |Description|
