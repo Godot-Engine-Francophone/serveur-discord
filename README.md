@@ -82,6 +82,16 @@ Zone dédié au développements de jeux
 |promo-discord|6h       |Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
 |marketing  |6h         |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
 
+## GameJam
+Zone dédié au développements de jeux
+
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|Evenements |bloqué     |Salon ou sont annoncés les gamejams et les resultats|
+|vocal      |vocal      |salon vocal pour les explications ou les collabs    |
+|Discussion |aucun      |Salon ouvert ou on parle de tout concernant les jams projets aide conseils visuels musique ressources|
+
+
 # Rôles
 
 ## Modérateurs & Staff
