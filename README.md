@@ -11,6 +11,7 @@ Annoncer ce qui touche à Godot Engine et à la communauté francophone de Godot
 |Actualité  |Relaie les actualités du site godotengine.org
 |Actualité  |Relaie les actualités de Godot Engine Francophone|
 |Évènement  |Annonce les game jams|
+|Évènement  |Annonce les résultats des game jams|
 |Évènement  |Annonce les conventions|
 |Évènement  |Annonce les évènements spéciaux uniques.|
 
@@ -81,6 +82,14 @@ Zone dédié au développements de jeux
 |petites-annonces|6h    |Salon de petites annonces autour du développement de jeu vidéo|
 |promo-discord|6h       |Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
 |marketing  |6h         |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
+
+## GameJam
+Zone dédié au développements de jeux
+
+|Salon      |Cooldown   |Description|
+|-----------|-----------|-----------|
+|Discussion |aucun      |Salon ouvert ou on parle de tout concernant les jams projets aide conseils visuels musique ressources|
+|Vocal      |vocal      |Salon vocal pour les explications ou les collabs    |
 
 # Rôles
 
