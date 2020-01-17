@@ -14,6 +14,7 @@ Annoncer ce qui touche à Godot Engine et à la communauté francophone de Godot
 |Évènement  |Annonce les résultats des game jams|
 |Évènement  |Annonce les conventions|
 |Évènement  |Annonce les évènements spéciaux uniques.|
+|Règlement  |Contient un simple message qui liste les règles du serveur et comment obtenir un rôle|
 
 ## Staff
 Channel dédié au staff de Godot Engine francophone
