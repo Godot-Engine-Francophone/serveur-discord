@@ -24,9 +24,6 @@ Channel dédié au staff de Godot Engine francophone
 |Accueil    |Annonce les nouveaux arrivants automatiquement|
 |Accueil    |Utilisé pour vérifier l'affluence du discord|
 |Discussion |Zone de discussion dédié au staff|
-|recap-reunion|Compte rendu des réunions|
-|site-web   |Discussions autour du site web|
-|bot-diuscord|Discussions autour du bot discord|
 |Vote       |Permet d'appeler a voter pour un changement|
 |Vocal      |Discusssion vocale|
 
@@ -35,8 +32,7 @@ Accueil des nouveaux arrivants et discussion libre
 
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
-|bienvenue  |bloqué     | Seul salon visible pour tout nouvel arrivant.|
-|presentez-vous|6h      |Permet a tous et a toutes de se présenter|
+|presentez-vous|30min   |Permet a tous et a toutes de se présenter|
 |clavardage |aucun      |Espace de discussion libre|
 |godot      |aucun      |Espace de discussion libre autour de Godot Engine|
 |taverne    |NA         |Salon vocal|
@@ -46,23 +42,17 @@ Espace d'change pour ceux qui ont besoin d'aide pour leur projet avec Godot Engi
 
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
-|aide-FAQ        |bloqué|Salon bloqué ne contenant qu'un seul message épinglé donnant les principales astuces mais aussi un lien vers le site web de Godot Engine Francophone|
-|aide-gdscript   |15s   |Salon dédié au GDScript|
-|aide-gdnative   |15s   |Salon dédié au GDNative|
-|aide-shaders    |15s   |Salon dédié aux shaders|
-|aide-visualscript|15s  |Salon dédié au visual scripting|
-|aide-autre      |15s   |Salon dédié pour le reste|
+|aide-gdscript   |aucun |Salon dédié au GDScript|
+|aide-gdnative   |aucun |Salon dédié au GDNative|
+|aide-shaders    |aucun |Salon dédié aux shaders|
+|aide-autre      |aucun |Salon dédié pour le reste|
 
 ## Vitrine
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
-|discussions   |aucun   |Pour réagir aux autre salons de Vitrine|
-|vos-shaders   |6h      |Partage les shaders|
-|vos-plugins   |6h      |Partage les plugins|
-|vos-modules   |6h      |Partage les modules|
-|vos-jeux      |6h      |Partage les jeux|
-|vos-assets    |6h      |Partage les assets graphiques ou sonores|
-|tutoriels     |6h      |Partage les tutoriels en français de préférence|
+|showcase-discussions   |aucun   |Pour réagir aux showcase|
+|showcase      |30min   |Montre des projets|
+|screenshot-saturday|aucun|Partage les plugins|
 
 ## Traduction
 Regroupe les discussions relatives aux traductions de Godot Engine et de sa documentation
@@ -71,26 +61,24 @@ Regroupe les discussions relatives aux traductions de Godot Engine et de sa docu
 |-----------|-----------|-----------|
 |FAQ        |bloqué     |Salon bloqué permettant aux nouveaux utilisateurs de commencer a traduire Godot Engine|
 |discussion |aucun      |Espace de discussion libre autour des traductions de Godot Engine|
-|aide       |30s        |Salon permettant aux utilisateurs de poser des questions autour des traductions de Godot Engine|
-|les-perles |6h         |Salon qui permet de partager les meilleures comme les pires traductions|
 
 ## Autre
 Zone dédié au développements de jeux
 
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
-|stream     |6h         |Salon ou sont annoncés les stream de game dev|
-|petites-annonces|6h    |Salon de petites annonces autour du développement de jeu vidéo|
-|promo-discord|6h       |Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
-|marketing  |6h         |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
+|stream     |30min      |Salon ou sont annoncés les stream de game dev|
+|petites-annonces|30min |Salon de petites annonces autour du développement de jeu vidéo|
+|promo-discord|30min    |Permet de partager des liens vers d'autres discord autour de Godot Engine ou du développement de jeux vidéo|
+|marketing  |aucun      |Redirige vers un projet github de godot engine francophone qui liste les ressources pour apprendre a faire du marketing|
 
 ## GameJam
 Zone dédié au développements de jeux
 
 |Salon      |Cooldown   |Description|
 |-----------|-----------|-----------|
-|Discussion |aucun      |Salon ouvert ou on parle de tout concernant les jams projets aide conseils visuels musique ressources|
-|Vocal      |vocal      |Salon vocal pour les explications ou les collabs    |
+|discussions |aucun      |Salon ouvert ou on parle de tout concernant les jams projets aide conseils visuels musique ressources|
+|vocal      |vocal      |Salon vocal pour les explications ou les collabs    |
 
 # Rôles
 
